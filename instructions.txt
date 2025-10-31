@@ -1,0 +1,5 @@
+project 1 execution instructions:
+
+1) ./server (run server)
+2) ./client (run clientA, sends email)
+3) ./client (run clientB, receives email)
